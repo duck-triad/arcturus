@@ -1,3 +1,11 @@
+// Karthik Mouli, 2020
+// This sketch was made when I was an MCB undergrad at Cal. 
+// The following is a massive (but interesting) mess! Also, it's not 100% guaranteed to work all the time, either.
+// There are some features here that I wanted to expand on, but COVID-19 threw a wrench in my plans.
+// I do not plan to revise this any further. 
+// I doubt that you'll find anything useful to copy from here (crap quality = ultimate defense against plagiarism)...
+// ... but feel free to copy any part of this for your own use! (bonus points if you give duck-triad credit!)
+
 const maxdim = 800;
 const bg = 255;
 const easer = (target, value, factor) => {return (target - value) * factor};
