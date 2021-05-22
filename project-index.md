@@ -1,6 +1,6 @@
 # Links:
 
-Entry #1 -> [**Bouncy Circles**](www.google.com)
+Entry #1 -> [**Bouncy Circles**](/ent_1/bouncy-circles.html)
 
 
 
