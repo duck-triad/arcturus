@@ -1,3 +1,10 @@
+// KM, 05/24/21
+// This was supposed to be Arcturus Sketch #3, but "I done goofed"
+// This sketch is protected by the Ultimate Plagiarism Defense.
+// Ultimate Plagiarism Defense -> quality that is so crap, it isn't even worth plagiarizing
+// But if you find something worth copying, please go ahead!
+// Bonus points if you credit duck-triad.github.io/arcturus
+
 const maxdim = 1000;
 const vel = 0.005;
 const dim = 25;
