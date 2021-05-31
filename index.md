@@ -4,3 +4,4 @@ Arcturus is a visual sketchbook that seeks to explore random and interesting thi
 
 [Table of Contents](project-index.md)
 
+[FAQ](am-I-a-pelican.md)
