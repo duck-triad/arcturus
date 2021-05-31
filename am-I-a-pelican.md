@@ -2,7 +2,7 @@
 
 
 ## What is Arcturus?
-[Arcturus](https://en.wikipedia.org/wiki/Arcturus) is the fourth-brightest star in the night sky and exists inside the constellation Boötes.
+[Arcturus](https://en.wikipedia.org/wiki/Arcturus) is the fourth-brightest star in the night sky and exists inside the Boötes constellation.
 
 ## Do the sketches come with an explanation?
 If you are viewing them on Chrome, use the "inspect element" feature by pressing F12 (or Ctrl+Shift+I) to see some of the comments I've left (both on the HTML and the JS files).
