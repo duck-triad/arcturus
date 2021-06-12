@@ -1,3 +1,10 @@
+// To understand why my life has been chaos, I've started a journey into chaos theory
+// This is the Ikeda Map, a chaos attractor that can be created using a stretch-twist algorithm
+// At these parameters, the attractor looks like an embryo
+// Indeed, chaos is the root of life.
+// KM, 6/11/21
+
+
 const MAXDIM = 800;
 const MAXGRID = 20;
 let maxpts = 1000;
