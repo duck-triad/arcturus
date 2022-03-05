@@ -4,12 +4,14 @@
 ## What is Arcturus?
 [Arcturus](https://en.wikipedia.org/wiki/Arcturus) is the fourth-brightest star in the night sky and exists inside the Boötes constellation.
 
-## Do the sketches come with an explanation?
-If you are viewing them on Chrome, use the "inspect element" feature by pressing F12 (or Ctrl+Shift+I) to see some of the comments I've left (both on the HTML and the JS files).
-Warning: as far as explanations go, they aren't all that great (sorry!). 
+## Why do some of the sketches run so slowly?
+Some of these sketches started off as Java-based experiments and were later hammered into the JS syntax. I have been told that Java does some things quicker than Javascript.
+
+## Is the source code available?
+Yes, via Github and the "inspect element" feature on most modern browsers. 
 
 ## Who is the author of this page?
-The author of this page is a bit hard to describe, but [this informational video](https://www.youtube.com/watch?v=ID_L0aGI9bg) should answer any remaining questions that you might have.
+This is a good question but hard to explain. For now, know all roads to Hamburg, Iowa, kaleidoscopically merge onto uncharted lane intersections. 
 
 
 
