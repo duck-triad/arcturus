@@ -7,7 +7,7 @@ function setup () {
     createCanvas(800,800, WEBGL);
     noStroke();
     pixelDensity(1);
-    setAttributes('antialias', true);
+    //setAttributes('antialias', true);
     cam = createEasyCam();
     document.oncontextmenu = () => false;
 }
