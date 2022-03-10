@@ -8,6 +8,7 @@ function setup () {
     noStroke();
     pixelDensity(1);
     cam = createEasyCam();
+    setAttributes('antialias', true);
     document.oncontextmenu = () => false;
 }
 
