@@ -1,3 +1,8 @@
+// KM 6/12/22
+// From 1D, to 2D, to "3D"
+// A project on projection.
+
+
 let r = 4;
 let numpts = 20;
 let m = 2.5;
